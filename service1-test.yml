@@ -1,0 +1,3 @@
+message: This is a message from the test environment
+server:
+  port: 8084

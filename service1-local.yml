@@ -1,1 +1,3 @@
-message: The local env
+message: This is a message from the local environment
+server:
+  port: 8082
