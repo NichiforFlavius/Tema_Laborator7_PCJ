@@ -1,1 +1,3 @@
 message: The dev env
+server:
+  port: 8083
